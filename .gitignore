@@ -1,1 +1,5 @@
 .DS_Store
+.cache/
+.netlify/
+dist/
+node_modules/
