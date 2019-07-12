@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+canvas,
+.planet-n-moons {
+  float: left;
+  z-index: 1;
+}
